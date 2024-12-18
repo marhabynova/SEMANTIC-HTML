@@ -1,2 +1,2 @@
 # SEMANTIC-HTML
-Latihan praktikum Semanyic HTML
+Latihan praktikum Semantic HTML
